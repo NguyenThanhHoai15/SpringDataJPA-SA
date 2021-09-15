@@ -10,7 +10,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class SpringDataJpaApplicationTests {
 
     @Autowired
-    private StudentRepository studentRepository
+    private StudentRepository studentRepository;
 
     @Test
     void testSaveOnRepoBranch() {

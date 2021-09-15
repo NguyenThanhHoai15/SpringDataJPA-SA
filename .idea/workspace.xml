@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6dae2007-3d65-4500-8427-2090c6b86f3b" name="Default Changelist" comment="push code of repo branch">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_9_15_2021_8_34_AM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_9_15_2021_8_34_AM__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_9_15_2021_8_34_AM__Default_Changelist_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_9_15_2021_8_34_AM__Default_Changelist_1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDataJPA/src/main/java/com/example/springdatajpa/repository/StudentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringDataJPA/src/main/java/com/example/springdatajpa/repository/StudentRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDataJPA/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringDataJPA/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SpringDataJPA/src/test/java/com/example/springdatajpa/SpringDataJpaApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringDataJPA/src/test/java/com/example/springdatajpa/SpringDataJpaApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,6 +86,14 @@
       <updated>1631514886796</updated>
       <workItem from="1631514888332" duration="789000" />
     </task>
+    <task id="LOCAL-00001" summary="push code of repo branch">
+      <created>1631672604405</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1631672604405</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,5 +110,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="push code of repo branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="push code of repo branch" />
   </component>
 </project>
