@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6dae2007-3d65-4500-8427-2090c6b86f3b" name="Default Changelist" comment="push code of repo branch">
-      <change beforePath="$PROJECT_DIR$/SpringDataJPA/src/test/java/com/example/springdatajpa/SpringDataJpaApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringDataJPA/src/test/java/com/example/springdatajpa/SpringDataJpaApplicationTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="6dae2007-3d65-4500-8427-2090c6b86f3b" name="Default Changelist" comment="push code of repo branch" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +21,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="jpql_branch" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
