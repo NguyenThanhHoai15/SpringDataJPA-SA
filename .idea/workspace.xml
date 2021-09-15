@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6dae2007-3d65-4500-8427-2090c6b86f3b" name="Default Changelist" comment="push code of repo branch" />
+    <list default="true" id="6dae2007-3d65-4500-8427-2090c6b86f3b" name="Default Changelist" comment="push code of repo branch lan 3">
+      <change beforePath="$PROJECT_DIR$/SpringDataJPA/src/test/java/com/example/springdatajpa/SpringDataJpaApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringDataJPA/src/test/java/com/example/springdatajpa/SpringDataJpaApplicationTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631672637309</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="push code of repo branch lan 3">
+      <created>1631673748287</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1631673748287</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +126,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="push code of repo branch" />
-    <option name="LAST_COMMIT_MESSAGE" value="push code of repo branch" />
+    <MESSAGE value="push code of repo branch lan 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="push code of repo branch lan 3" />
   </component>
 </project>
