@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6dae2007-3d65-4500-8427-2090c6b86f3b" name="Default Changelist" comment="push code of master branch">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDataJPA/src/main/java/com/example/springdatajpa/repository/StudentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringDataJPA/src/main/java/com/example/springdatajpa/repository/StudentRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDataJPA/src/test/java/com/example/springdatajpa/SpringDataJpaApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringDataJPA/src/test/java/com/example/springdatajpa/SpringDataJpaApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringDataJPA/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringDataJPA/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
