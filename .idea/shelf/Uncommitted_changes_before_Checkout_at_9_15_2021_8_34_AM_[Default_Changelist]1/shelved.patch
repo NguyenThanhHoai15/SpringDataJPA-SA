@@ -1,0 +1,20 @@
+Index: SpringDataJPA/src/main/java/com/example/springdatajpa/repository/StudentRepository.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package com.example.springdatajpa.repository;\r\n\r\nimport com.example.springdatajpa.entity.Student;\r\nimport org.springframework.data.repository.CrudRepository;\r\n\r\npublic interface StudentRepository extends CrudRepository<Student, Long> {\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/SpringDataJPA/src/main/java/com/example/springdatajpa/repository/StudentRepository.java b/SpringDataJPA/src/main/java/com/example/springdatajpa/repository/StudentRepository.java
+--- a/SpringDataJPA/src/main/java/com/example/springdatajpa/repository/StudentRepository.java	
++++ b/SpringDataJPA/src/main/java/com/example/springdatajpa/repository/StudentRepository.java	
+@@ -1,7 +1,8 @@
+ package com.example.springdatajpa.repository;
+ 
+ import com.example.springdatajpa.entity.Student;
++import org.springframework.data.jpa.repository.JpaRepository;
+ import org.springframework.data.repository.CrudRepository;
+ 
+-public interface StudentRepository extends CrudRepository<Student, Long> {
++public interface StudentRepository extends JpaRepository<Student, Long> {
+ }
