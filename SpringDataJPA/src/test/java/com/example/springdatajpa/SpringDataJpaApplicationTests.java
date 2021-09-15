@@ -33,6 +33,7 @@ class SpringDataJpaApplicationTests {
     @Test
     void testDeleteRepoBranch(){
         studentRepository.deleteAll();
+
     }
 
 }
