@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6dae2007-3d65-4500-8427-2090c6b86f3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SpringDataJPA/src/main/java/com/example/springdatajpa/entity/Student.java" afterDir="false" />
+    <list default="true" id="6dae2007-3d65-4500-8427-2090c6b86f3b" name="Default Changelist" comment="push code of master branch">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SpringDataJPA/src/main/java/com/example/springdatajpa/repository/StudentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringDataJPA/src/main/java/com/example/springdatajpa/repository/StudentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringDataJPA/src/test/java/com/example/springdatajpa/SpringDataJpaApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringDataJPA/src/test/java/com/example/springdatajpa/SpringDataJpaApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="native_repo" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -74,6 +74,14 @@
       <updated>1631514886796</updated>
       <workItem from="1631514888332" duration="789000" />
     </task>
+    <task id="LOCAL-00001" summary="push code of master branch">
+      <created>1631673523796</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1631673523796</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,5 +98,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="push code of master branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="push code of master branch" />
   </component>
 </project>
